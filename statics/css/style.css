@@ -1,0 +1,12 @@
+.jumbotron{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://media.wired.co.uk/photos/606da880581351b2c44d7ee7/16:9/w_1920,h_1080,c_limit/Navelgazing.jpg") no-repeat center center; 
+
+}
+.jumbotron h1{
+    color: #fff;
+}
+
+.jumbotron p{
+    color: #fff;
+}
+
