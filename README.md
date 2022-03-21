@@ -9,7 +9,7 @@ I constructed an HTML/JavaScript page that shows a customised dashboard with a b
 
 ## Results
 
-Static data is used to filter the dashboard. The bubble chart is a visual representation of the top ten bacterial species found in the participants' belly buttons. The gauge indicates how many times a volunteer cleaned their belly button while volunteering.
+The bubble chart is a visual representation of the top ten bacterial species found in the participants' belly buttons. The gauge indicates how many times a volunteer cleaned their belly button while volunteering.
 
 ![webpage.PNG](Resources/Webpage.PNG)
 
